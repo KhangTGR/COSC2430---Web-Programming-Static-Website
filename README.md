@@ -1,1 +1,1 @@
-https://khangtgr.github.io/Static-Website/
+https://khangtgr.github.io/COSC2430---Web-Programming-Static-Website/
